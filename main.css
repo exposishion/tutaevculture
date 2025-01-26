@@ -1,0 +1,140 @@
+
+body {
+    background-color: gainsboro;
+    background-image: url("https://avatanplus.com/files/resources/original/5bf90aff5b37d16744d2f58e.jpg");
+}
+
+/* HEADER */
+header {
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    z-idex: 1000;
+    background-color: gainsboro;
+    background-image: url("https://avatanplus.com/files/resources/original/5bf90aff5b37d16744d2f58e.jpg");
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+        box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.header__image {
+    height: 55px;
+    width: 80px;
+}
+
+
+
+
+/* FOOTER */
+
+.body0__image {
+    position: relative;
+    top: 15px; left: 75px;
+    z-index: 1000;
+    height: 450px;
+    width: 1150px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+
+}
+
+.body1__image {
+    position: relative;
+    top: 15px; right: 0px;
+    z-index: 1000;
+    height: 350px;
+    width: 550px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.body2__image {
+    position: relative;
+    top: 15px; left: 200px;
+    z-index: 1000;
+    height: 350px;
+    width: 550px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.body3__image {
+    position: relative;
+    top: 25px; left: 45px;
+    z-index: 1000;
+    height: 450px;
+    width: 350px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.body4__image {
+    position: relative;
+    top: 25px; left: 150px;
+    z-index: 1000;
+    height: 350px;
+    width: 650px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.body5__image {
+    position: relative;
+    top: 25px; left: 45px;
+    z-index: 1000;
+    height: 450px;
+    width: 550px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+.body6__image {
+    position: relative;
+    top: 25px; left: 130px;
+    z-index: 1000;
+    height: 350px;
+    width: 600px;
+    background: #fff;
+    -webkit-box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.15);
+}
+
+
+p {
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+
+
+h3 {
+    position: relative;
+    top: 20px;
+    text-align: justify;
+
+}
+
+iframe {
+    position: relative;
+    top: 20px; left: 250px;
+    height: 250px;
+    width: 550px;
+}
+
+h1 {
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+
+h2 {
+    position: relative;
+    top: 20px;
+    text-align: justify;
+}
